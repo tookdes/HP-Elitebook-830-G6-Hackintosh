@@ -36,3 +36,4 @@ Clover doesn't boot for some reason.
 
 - Joystick Mouse
 - WWAN LTE Module
+- FingerPrint Sensor / TouchID
