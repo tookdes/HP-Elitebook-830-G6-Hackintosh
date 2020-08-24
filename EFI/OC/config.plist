@@ -16,6 +16,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>HP_lid.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>RTC Fix (Debug)</string>
 				<key>Enabled</key>
 				<false/>
