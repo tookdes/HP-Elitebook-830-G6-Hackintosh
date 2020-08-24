@@ -9,6 +9,7 @@ Clover doesn't boot for some reason.
 - Bios: 01.05.03 Rev.A (Can not downgrade anymore so lower Rev. not tested)
 - Intel i7-8565U with UHD 620
 - Western Digital SN730 NVMe SSD
+- Broadcom Wi-Fi / BlueTooth Chip BCM94352Z (DW1560)
 
 ## What Works
 
@@ -21,11 +22,11 @@ Clover doesn't boot for some reason.
 - WebCam
 - Battery Status (If battery removed the performace will be bad)
 - Sleep / Wake-up
+- Wi-Fi / Bluetooth
 
 ## To Fix
 
 - Mic (ALC215 Not Supported even with AppleALC 1.5.1 and Layout-ID 18 injected)
-- Wifi / Bluetooth (Replace Intel AX200 with DW1820A)
 - HDMI output
 
 ## Not tested
