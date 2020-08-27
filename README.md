@@ -77,3 +77,7 @@ Your Windows 10 might be frozen after start. Solve it by follow steps:
 5. Deactivate the **Link State Power Management**
 
 (See to: https://www.tonymacx86.com/threads/bcm94352z-dw1560-causes-windows-10-lockup-freeze.256456/)
+
+If you don't have the driver, go to Dell website, search for "1560", sort by date to get the newest driver (whatever the model is), **extract** it and manually install it by choose .inf file.
+
+For example, right now the newest driver is `M3800_Network_Driver_2JRDK_WN32_7.35.333.0_A01.EXE`. Google it.
