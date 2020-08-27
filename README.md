@@ -66,3 +66,6 @@ sudo pmset -a standby 0
 sudo pmset -a autopoweroff 0
 ```
 
+## About DW1560 in Windows
+
+See to: https://www.tonymacx86.com/threads/bcm94352z-dw1560-causes-windows-10-lockup-freeze.256456/
