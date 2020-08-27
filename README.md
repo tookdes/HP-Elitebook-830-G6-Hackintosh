@@ -68,4 +68,9 @@ sudo pmset -a autopoweroff 0
 
 ## About DW1560 in Windows
 
+1. Go to **power plan settings**
+2. Go to the **advanced settings**
+3. Got to **PCI Express**
+4. Deactivate the **Link State Power Management**
+
 See to: https://www.tonymacx86.com/threads/bcm94352z-dw1560-causes-windows-10-lockup-freeze.256456/
