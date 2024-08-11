@@ -7,12 +7,14 @@ OpenCore EFI for HP Elitebook 830-G6.
 Please see to:
 https://www.tonymacx86.com/members/canuckcam.2601912/
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi2agfk1frj31hc0u013g.jpg)
+![Ventura Screenshot](https://github.com/user-attachments/assets/9e9452df-d2bd-4344-a590-49fe21b6f386)
 
 830 G6 is very similar to 840 G6.
 You can directly use his work :) Thx to him.
 
 ## Catalina (This part is OLD)
+
+![Catalina Screenshot](https://tva1.sinaimg.cn/large/007S8ZIlgy1gi2agfk1frj31hc0u013g.jpg)
 
 ### Basic Information
 
