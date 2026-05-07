@@ -702,7 +702,7 @@
 				<key>Comment</key>
 				<string>Optional for BCM94352Z on macOS 15+ via OCLP-style Broadcom compatibility</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AMFIPass</string>
 				<key>MaxKernel</key>
@@ -718,7 +718,7 @@
 				<key>Comment</key>
 				<string>Optional for BCM94352Z on macOS 15+ (paired with AMFIPass/IO80211FamilyLegacy)</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IOSkywalkFamily</string>
 				<key>MaxKernel</key>
@@ -734,7 +734,7 @@
 				<key>Comment</key>
 				<string>Optional for BCM94352Z on macOS 15+ (pair with AMFIPass path and AirPortBrcmNIC plugin)</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -750,7 +750,7 @@
 				<key>Comment</key>
 				<string>Optional for BCM94352Z on macOS 15+</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
