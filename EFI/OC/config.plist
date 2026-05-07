@@ -700,7 +700,7 @@
 				<key>BundlePath</key>
 				<string>AMFIPass.kext</string>
 				<key>Comment</key>
-				<string>Optional for BCM94352Z on macOS 15+ via OCLP-style Broadcom compatibility</string>
+				<string>Sequoia required: BCM94352Z Wi-Fi path start</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -716,7 +716,7 @@
 				<key>BundlePath</key>
 				<string>IOSkywalkFamily.kext</string>
 				<key>Comment</key>
-				<string>Optional for BCM94352Z on macOS 15+ (paired with AMFIPass/IO80211FamilyLegacy)</string>
+				<string>Sequoia required: BCM94352Z SkyWalk shim</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -732,7 +732,7 @@
 				<key>BundlePath</key>
 				<string>IO80211FamilyLegacy.kext</string>
 				<key>Comment</key>
-				<string>Optional for BCM94352Z on macOS 15+ (pair with AMFIPass path and AirPortBrcmNIC plugin)</string>
+				<string>Sequoia required: legacy 80211 core for BCM94352Z</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -748,7 +748,7 @@
 				<key>BundlePath</key>
 				<string>IO80211FamilyLegacy.kext/Contents/PlugIns/AirPortBrcmNIC.kext</string>
 				<key>Comment</key>
-				<string>Optional for BCM94352Z on macOS 15+</string>
+				<string>Sequoia required: BCM94352Z AirPort plugin</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -1603,7 +1603,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 -amfipassbeta igfxagdc=0 igfxonln=1</string>
+				<string>-amfipassbeta igfxagdc=0 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
